@@ -1,4 +1,4 @@
-"D:\Program Files\JetBrains\CLion 2023.1.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S D:\workplace\andy\123\pepe2.0 -B D:\workplace\andy\123\pepe2.0\cmake-build-debug
+"D:\Program Files\JetBrains\CLion 2023.1.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S D:\workplace\andy\pepe2\pepe2 -B D:\workplace\andy\pepe2\pepe2\cmake-build-debug
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -21,4 +21,4 @@ Call Stack (most recent call first):
 
 
 -- Configuring incomplete, errors occurred!
-See also "D:/workplace/andy/123/pepe2.0/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "D:/workplace/andy/pepe2/pepe2/cmake-build-debug/CMakeFiles/CMakeOutput.log".
